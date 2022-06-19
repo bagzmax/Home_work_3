@@ -1,8 +1,10 @@
 ## Список рецептов
 
-[recept 1](Salad_Bourgeois.md)
-[recept 2](Gazpacho.md)
-[recept 3](eggplant_pizza.md)
+[Salad_Bourgeois](Salad_Bourgeois.md)
+
+[Gazpacho](Gazpacho.md)
+
+[eggplant_pizza](eggplant_pizza.md)
 
 
 
